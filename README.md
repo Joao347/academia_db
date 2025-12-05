@@ -85,6 +85,6 @@ Cada repositório contém comentários com o SQL equivalente que está sendo exe
 
 ## 📄 Licença
 
-Este projeto é um trabalho acadêmico.
+Este projeto é um trabalho acadêmico de estudantes da Universidade do Vale do Itajaí.
 
 
