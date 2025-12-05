@@ -3,7 +3,7 @@
 
 Sistema completo de gestão de academia desenvolvido em MySQL e C# (.NET 8.0).
 
-## 📋 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 m3 bd academia/
@@ -30,7 +30,7 @@ m3 bd academia/
 └── Academia.sln                     # Solução do projeto
 ```
 
-## 🗄️ Modelo de Dados
+## Modelo de Dados
 
 ### Tabelas Principais:
 
@@ -52,7 +52,7 @@ m3 bd academia/
   - Primary Key composta: `(instrutor_id, membro_id, data_inicio)`
   - Foreign Keys: `instrutor_id` → `Instrutores(instrutor_id)`, `membro_id` → `Membros(membro_id)`
 
-## 🚀 Como Usar
+## Como Usar
 
 ### Pré-requisitos
 - MySQL Server instalado
@@ -92,7 +92,7 @@ dotnet run --project Academia.Console
 
 Ou abra a solução `Academia.sln` no Visual Studio e execute o projeto `Academia.Console`.
 
-## 🎮 Menu da Aplicação
+## Menu da Aplicação
 
 A aplicação apresenta um menu interativo com as seguintes opções:
 
@@ -139,7 +139,7 @@ A aplicação apresenta um menu interativo com as seguintes opções:
 - **Soft Delete**: Implementado para Membros, Planos e Instrutores
 - **Documentação**: Comentários SQL nos repositórios explicando as queries executadas
 
-## 📝 Observações
+## Observações
 
 - Todos os métodos CRUD estão implementados e testados
 - Os comandos SQL estão documentados nos comentários dos repositórios
@@ -147,13 +147,13 @@ A aplicação apresenta um menu interativo com as seguintes opções:
 - Validações de integridade referencial são mantidas pelo MySQL através de Foreign Keys
 - A aplicação console oferece interface amigável para todas as operações
 
-## 📦 Dependências
+## Dependências
 
 - **Dapper**: Micro-ORM para acesso a dados
 - **MySql.Data**: Driver MySQL para .NET
 - **.NET 8.0**: Framework base
 
-## 📄 Licença
+## Licença
 
 Este projeto é um trabalho acadêmico desenvolvido para a disciplina de Banco de Dados I da Universidade do Vale do Itajaí.
 
