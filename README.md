@@ -1,5 +1,5 @@
 # Sistema de Domínio de Academia
-## Trabalho M3 - Banco de Dados I
+## Trabalho M3 - Banco de Dados
 
 Sistema completo de gestão de academia desenvolvido em MySQL e C# (.NET 8.0).
 
