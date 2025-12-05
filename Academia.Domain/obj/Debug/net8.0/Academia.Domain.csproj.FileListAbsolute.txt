@@ -1,0 +1,11 @@
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Domain\bin\Debug\net8.0\Academia.Domain.deps.json
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Domain\bin\Debug\net8.0\Academia.Domain.dll
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Domain\bin\Debug\net8.0\Academia.Domain.pdb
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Domain\obj\Debug\net8.0\Academia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Domain\obj\Debug\net8.0\Academia.Domain.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Domain\obj\Debug\net8.0\Academia.Domain.AssemblyInfo.cs
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Domain\obj\Debug\net8.0\Academia.Domain.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Domain\obj\Debug\net8.0\Academia.Domain.dll
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Domain\obj\Debug\net8.0\refint\Academia.Domain.dll
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Domain\obj\Debug\net8.0\Academia.Domain.pdb
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Domain\obj\Debug\net8.0\ref\Academia.Domain.dll

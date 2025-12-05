@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Data\bin\Debug\net8.0\Academia.Data.deps.json
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Data\bin\Debug\net8.0\Academia.Data.dll
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Data\bin\Debug\net8.0\Academia.Data.pdb
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Data\bin\Debug\net8.0\Academia.Domain.dll
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Data\bin\Debug\net8.0\Academia.Domain.pdb
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Data\obj\Debug\net8.0\Academia.Data.csproj.AssemblyReference.cache
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Data\obj\Debug\net8.0\Academia.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Data\obj\Debug\net8.0\Academia.Data.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Data\obj\Debug\net8.0\Academia.Data.AssemblyInfo.cs
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Data\obj\Debug\net8.0\Academia.Data.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Data\obj\Debug\net8.0\Academia.BFEC0512.Up2Date
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Data\obj\Debug\net8.0\Academia.Data.dll
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Data\obj\Debug\net8.0\refint\Academia.Data.dll
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Data\obj\Debug\net8.0\Academia.Data.pdb
+C:\Users\João\Desktop\m3 banco de dados hospital\m3 bd academia\Academia.Data\obj\Debug\net8.0\ref\Academia.Data.dll
