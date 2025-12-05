@@ -113,7 +113,7 @@ A aplicação apresenta um menu interativo com as seguintes opções:
    - Atualizar relação existente
    - Excluir relação
 
-## 🔧 Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 ### CRUDs Disponíveis:
 
